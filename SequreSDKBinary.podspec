@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SequreSDKBinary"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "Sequre Scanner SDK framework."
   s.description  = "Sequre Scanner SDK for detecting QR codes."
   s.homepage     = "https://github.com/dewangga18/sequre_binary_experimental"
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.swift_versions = "5.0"
   s.source       = { :git => "https://github.com/dewangga18/sequre_binary_experimental.git", :tag => s.version.to_s }
 
-  s.ios.vendored_framework = "SequreSDK.xcframework"
+  s.ios.vendored_framework = "SequreSDK.framework"
 
  # —————— START WORKAROUND ——————
   s.pod_target_xcconfig = {
