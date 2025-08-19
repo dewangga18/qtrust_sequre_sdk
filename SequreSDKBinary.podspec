@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SequreSDKBinary"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "Sequre Scanner SDK framework."
   s.description  = "Sequre Scanner SDK for detecting QR codes."
   s.homepage     = "https://github.com/dewangga18/sequre_binary_experimental"
