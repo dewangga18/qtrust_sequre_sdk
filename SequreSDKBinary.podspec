@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SequreSDKBinary"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Sequre Scanner SDK framework."
   s.description  = "Sequre Scanner SDK for detecting QR codes."
   s.homepage     = "https://github.com/dewangga18/sequre_binary_experimental"
@@ -11,12 +11,16 @@ Pod::Spec.new do |s|
   s.swift_versions = "5.0"
   s.source       = { :git => "https://github.com/dewangga18/sequre_binary_experimental.git", :tag => s.version.to_s }
 
-  s.ios.vendored_framework = "SequreSDKBinary.xcframework"
+  s.ios.vendored_framework = "SequreSDK.xcframework"
 
+ # —————— START WORKAROUND ——————
   s.pod_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64',
+    'ONLY_ACTIVE_ARCH'                     => 'YES',
+    'SWIFT_OPTIMIZATION_LEVEL'             => '-Onone'
   }
   s.user_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
+  # —————— END WORKAROUND ——————
 end
