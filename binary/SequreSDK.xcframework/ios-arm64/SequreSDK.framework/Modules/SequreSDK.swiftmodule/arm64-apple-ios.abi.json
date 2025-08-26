@@ -285,6 +285,23 @@
       },
       {
         "kind": "Import",
+        "name": "TensorFlowLiteTaskVision",
+        "printedName": "TensorFlowLiteTaskVision",
+        "declKind": "Import",
+        "moduleName": "SequreSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "SequreSDK"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -2262,23 +2279,6 @@
         "kind": "Import",
         "name": "TensorFlowLiteTaskVision",
         "printedName": "TensorFlowLiteTaskVision",
-        "declKind": "Import",
-        "moduleName": "SequreSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "TensorFlowLiteTaskVision",
-        "printedName": "TensorFlowLiteTaskVision",
-        "declKind": "Import",
-        "moduleName": "SequreSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Vision",
-        "printedName": "Vision",
         "declKind": "Import",
         "moduleName": "SequreSDK"
       },
