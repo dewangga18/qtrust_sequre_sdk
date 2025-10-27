@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		3YP/NabRKyyirx8ern+ijPyRrjk=
+		j8LOsDsoGj+TlftFRJtmXgm04Z4=
 		</data>
 		<key>Headers/OpenCVWrapper.h</key>
 		<data>
@@ -14,45 +14,54 @@
 		</data>
 		<key>Headers/SequreSDK-Swift.h</key>
 		<data>
-		cBI5ZYUFXJpzNHe31yyvrJbSzGw=
+		ySBkfTFpenR6ooOGVc6wpxhZaoo=
 		</data>
 		<key>Headers/SequreSDK.h</key>
 		<data>
-		gt6iWoGcijx65dDkCTIhNCIstjk=
+		bpAjyMe55y6X8RTC2QibNd7tfvA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		u2dLdHKR5eMbX7dxsb+JEK2lCHE=
+		+lF7G/7pYYEsuYsPbDcAVCXbHRk=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		PzkPd2kX6OUVoJE5pgxNRkP2J4E=
+		grgCJPdb1x+ShzPwlOZSCCWYuRM=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		XXroLZjgsrLe0QHQ3J7K2dodsqU=
+		tp06oors0xAJ+XUOR3hemZ8OCcY=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9zmBS4gBYSxwOVNhQ17JiloCQmM=
+		5mnavFsuXxPpzZxJOCRzoCocap0=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		XXroLZjgsrLe0QHQ3J7K2dodsqU=
+		tp06oors0xAJ+XUOR3hemZ8OCcY=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+gRL2e3OfkIEttbRZEW7vvB1B/Y=
+		LcsUMeYBFl3U28o9Nz6ymbNkF6I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Cq/QD7ZJy/pxg+qXgvmLxkYAeC8=
 		</data>
+		<key>en.lproj/SequreSDKLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gFufSRUIDQ63Iom5GI2nhXtQaAo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>id.lproj/SequreSDKLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P9/SzXkOnPApJgUmwNScUML/fPY=
+			RPDjewaYirsTXBenHWu667hezP4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -64,7 +73,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pS1tip9OGIHmnQExVLFn8hjNx2LG+vpTM6UjDJRAWjU=
+			DdCT0gsIMukpE3kRBLoR7ULDgjCxqolyoduwqLnEj+c=
 			</data>
 		</dict>
 		<key>Headers/OpenCVWrapper.h</key>
@@ -78,49 +87,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oju2knn8Z37XToHf+Xnsb2pNF6QPjV8cEHi6U83lWcc=
+			aBwf/WeLq4cr/Ja3fGZpOdhNu/c/wXeNy5+TpgE9ndM=
 			</data>
 		</dict>
 		<key>Headers/SequreSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QcKLm8337BtA3KlhRD7e/NxRfLp6u5JLAcM8EJf1DRU=
+			V3vC3lZ6chN+pp05GfkXgB16Vkjc0mIPIpBfTV1/OiA=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nc7e95dX2e/nvPxoVbOXa9bTbHj+hZ8mm8OLWuLK8cE=
+			dc73U117hl3kuRcuhkN9yEaaXD9xUm46iTKRHQMdsHM=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JChmXjbnu4oxoik0WHHDOk2abCsPUKor7fdYjq4TZr4=
+			RY8Q8vyN/CggIoXLfK5lqV8A13zzrRmGPdJK1Dfw+14=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BxOP0o+zO53K78u2ezCCWusic25ndhqd6jzrnmH6w/A=
+			fxmXJuMWD0B7/wYN64GdpDJ51XsdCOmjQEsFvluY/Y4=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JChmXjbnu4oxoik0WHHDOk2abCsPUKor7fdYjq4TZr4=
+			RY8Q8vyN/CggIoXLfK5lqV8A13zzrRmGPdJK1Dfw+14=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xwsBdiCP7LvA2qrwVQO4FOGWt9HL5MvgOMFKSRFzzjs=
+			immp0Gu/NBmBIjaD4iybiWs3PomyHbIQP5HCj2Q+n6g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -130,11 +139,20 @@
 			nJFG4mXg1IxUmcch/UEmDWF3fSOXvQhqkDNNVcMfiGI=
 			</data>
 		</dict>
+		<key>en.lproj/SequreSDKLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zuyIFHUfQvP+XkhtYrWMx+7Z8F80eEL1lTLMEoB81cU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>id.lproj/SequreSDKLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HjLq3FZSyOGBHUNb8c79HA51M2ej0hxBQcA7W2D6M9o=
+			UBdKQwZDehy4QTzyAHPGZGDcynczs1DXp0N5kPtjSMo=
 			</data>
 			<key>optional</key>
 			<true/>

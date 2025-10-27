@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		3YP/NabRKyyirx8ern+ijPyRrjk=
+		j8LOsDsoGj+TlftFRJtmXgm04Z4=
 		</data>
 		<key>Headers/OpenCVWrapper.h</key>
 		<data>
@@ -14,45 +14,54 @@
 		</data>
 		<key>Headers/SequreSDK-Swift.h</key>
 		<data>
-		xzPpA50KEGGV/u84oHxTygVs0D4=
+		bean9Qy+gt8jcx9DXUNGjujsltU=
 		</data>
 		<key>Headers/SequreSDK.h</key>
 		<data>
-		gt6iWoGcijx65dDkCTIhNCIstjk=
+		bpAjyMe55y6X8RTC2QibNd7tfvA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FMlYW7ZsWvSNRBWaUbEV6yPM8+I=
+		OPjawp6v3TRpB9zNEd15fsplBjE=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		HvvklC4Wbhms5bi+5n6qhUh2ePQ=
+		MqkvZ9rctp0MnzV21WcR6SsLd0s=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		kr2st4N6CP9dE38haBd5IZl71/g=
+		wHvWLFX8yf3KpVgWbd+9nwe4dqk=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		8cQHBm1izsaVWjMhx1ARCvntYi8=
+		y8EOisb/kAKCnluZtIfYdh4rLfI=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		kr2st4N6CP9dE38haBd5IZl71/g=
+		wHvWLFX8yf3KpVgWbd+9nwe4dqk=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		VG99RhWWNPPpVJlg09XEgWydfgc=
+		1bIDoC9or+fdz4CnPTuNO/QQN+4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Cq/QD7ZJy/pxg+qXgvmLxkYAeC8=
 		</data>
+		<key>en.lproj/SequreSDKLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gFufSRUIDQ63Iom5GI2nhXtQaAo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>id.lproj/SequreSDKLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P9/SzXkOnPApJgUmwNScUML/fPY=
+			RPDjewaYirsTXBenHWu667hezP4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -64,7 +73,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pS1tip9OGIHmnQExVLFn8hjNx2LG+vpTM6UjDJRAWjU=
+			DdCT0gsIMukpE3kRBLoR7ULDgjCxqolyoduwqLnEj+c=
 			</data>
 		</dict>
 		<key>Headers/OpenCVWrapper.h</key>
@@ -78,49 +87,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Wk9xK/GLOHckmo9J6Bf0BZXqE1zcB2F4GnUFkyhZm8=
+			+VgwxsFKsEAVFgSUyQ/iZ4BvctSw3w42nEMNjQD+NYM=
 			</data>
 		</dict>
 		<key>Headers/SequreSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QcKLm8337BtA3KlhRD7e/NxRfLp6u5JLAcM8EJf1DRU=
+			V3vC3lZ6chN+pp05GfkXgB16Vkjc0mIPIpBfTV1/OiA=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TDKpJt1oodWzywmOLrM+zgoKs+O6K5tT8YGENt904pA=
+			0kZrlJ0hRCBZ1x6KS3nOYZ74oCy07KDDX4TbnW6y8Nw=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qmJrfZMz/eiAWP9i06ZiIK1d9E1lpTXxvY2tBc5NOQI=
+			ZkMtmQC4THZePEATWtySo3Wy/WTmVgvjDiTC5uc5zUE=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vFnH3DxVFsNuZF5LTW5E2ACfEZPz7hIJJR5zvLl1BjM=
+			27UFwSgeCMaeDWqOgpWspk2JlRqbeDMQLLUfpZMEKfs=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qmJrfZMz/eiAWP9i06ZiIK1d9E1lpTXxvY2tBc5NOQI=
+			ZkMtmQC4THZePEATWtySo3Wy/WTmVgvjDiTC5uc5zUE=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GPYJhkLZIoCBLdrlbK9rtf7TviLd4Sk3SVhQMQ0jt6Y=
+			pbolHI59nqQ2wo3xDAgpRSzeR+SHqdzqdbFUr4hIhLs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -130,11 +139,20 @@
 			nJFG4mXg1IxUmcch/UEmDWF3fSOXvQhqkDNNVcMfiGI=
 			</data>
 		</dict>
+		<key>en.lproj/SequreSDKLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zuyIFHUfQvP+XkhtYrWMx+7Z8F80eEL1lTLMEoB81cU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>id.lproj/SequreSDKLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HjLq3FZSyOGBHUNb8c79HA51M2ej0hxBQcA7W2D6M9o=
+			UBdKQwZDehy4QTzyAHPGZGDcynczs1DXp0N5kPtjSMo=
 			</data>
 			<key>optional</key>
 			<true/>
