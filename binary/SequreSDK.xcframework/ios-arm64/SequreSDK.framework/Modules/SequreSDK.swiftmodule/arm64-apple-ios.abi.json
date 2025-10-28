@@ -4159,7 +4159,7 @@
           {
             "kind": "Function",
             "name": "initialize",
-            "printedName": "initialize(uniqueNumber:bundleID:flavor:isDebugLayout:onCompleted:)",
+            "printedName": "initialize(uniqueNumber:bundleID:flavor:onCompleted:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4183,12 +4183,6 @@
                 "name": "ClassificationEnv",
                 "printedName": "SequreSDK.ClassificationEnv",
                 "usr": "s:9SequreSDK17ClassificationEnvO"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
               },
               {
                 "kind": "TypeNominal",
@@ -4218,8 +4212,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:9SequreSDK0A11SDKInstanceC10initialize12uniqueNumber8bundleID6flavor13isDebugLayout11onCompletedySi_SSAA17ClassificationEnvOSbyycSgtF",
-            "mangledName": "$s9SequreSDK0A11SDKInstanceC10initialize12uniqueNumber8bundleID6flavor13isDebugLayout11onCompletedySi_SSAA17ClassificationEnvOSbyycSgtF",
+            "usr": "s:9SequreSDK0A11SDKInstanceC10initialize12uniqueNumber8bundleID6flavor11onCompletedySi_SSAA17ClassificationEnvOyycSgtF",
+            "mangledName": "$s9SequreSDK0A11SDKInstanceC10initialize12uniqueNumber8bundleID6flavor11onCompletedySi_SSAA17ClassificationEnvOyycSgtF",
             "moduleName": "SequreSDK",
             "declAttributes": [
               "AccessControl"
@@ -5059,14 +5053,7 @@
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/SequreSDKInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 348,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/SequreSDKInstance.swift",
-      "kind": "BooleanLiteral",
-      "offset": 389,
+      "offset": 353,
       "length": 5,
       "value": "false"
     },

@@ -141,7 +141,7 @@ public enum StatusDialogScan {
 @_hasMissingDesignatedInitializers public class SequreSDKInstance : Combine.ObservableObject {
   public static let shared: SequreSDK.SequreSDKInstance
   #if compiler(>=5.3) && $NonescapableTypes
-  public func initialize(uniqueNumber: Swift.Int, bundleID: Swift.String, flavor: SequreSDK.ClassificationEnv, isDebugLayout: Swift.Bool, onCompleted: (() -> Swift.Void)? = nil)
+  public func initialize(uniqueNumber: Swift.Int, bundleID: Swift.String, flavor: SequreSDK.ClassificationEnv, onCompleted: (() -> Swift.Void)? = nil)
   #endif
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
