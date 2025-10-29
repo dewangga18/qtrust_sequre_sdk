@@ -4964,14 +4964,14 @@
       "kind": "IntegerLiteral",
       "offset": 1235,
       "length": 1,
-      "value": "8"
+      "value": "6"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "IntegerLiteral",
       "offset": 1271,
       "length": 1,
-      "value": "1"
+      "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
