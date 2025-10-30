@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
     ]
   }
 
-  s.vendored_frameworks = "binary/SequreSDK.xcframework"
+  # s.vendored_frameworks = "binary/SequreSDK.xcframework"
   s.static_framework = true
 
   s.pod_target_xcconfig = {
@@ -29,4 +29,14 @@ Pod::Spec.new do |s|
   s.user_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
+
+  s.default_subspec = 'Full'
+
+  s.subspec 'Full' do |full|
+    full.vendored_frameworks = 'binary/SequreSDK.xcframework'
+  end
+
+  s.subspec 'Lite' do |lite|
+    lite.vendored_frameworks = 'binary/SequreSDKLite.xcframework'
+  end
 end
