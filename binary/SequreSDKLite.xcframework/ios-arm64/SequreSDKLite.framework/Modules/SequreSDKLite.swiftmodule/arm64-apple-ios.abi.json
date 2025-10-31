@@ -264,13 +264,20 @@
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
+        "name": "Combine",
+        "printedName": "Combine",
         "declKind": "Import",
         "moduleName": "SequreSDKLite",
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SequreSDKLite"
       },
       {
         "kind": "Import",
@@ -4428,29 +4435,64 @@
   "ConstValues": [
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 429,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 382,
+      "length": 17,
+      "value": "\"useLensPosition\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 472,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 448,
+      "offset": 502,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 488,
+      "offset": 591,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 687,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 727,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 522,
+      "offset": 761,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 564,
+      "offset": 803,
       "length": 5,
       "value": "false"
     },
