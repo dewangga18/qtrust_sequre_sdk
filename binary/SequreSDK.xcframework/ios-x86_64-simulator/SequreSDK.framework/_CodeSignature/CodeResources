@@ -26,23 +26,23 @@
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		m3vIUqaCV+5h+7+g6Ym6ok/yhbc=
+		j/v4NgztMKxXjfsUNRe4oiNC2rk=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5EsfFNWWLQz24wm066v5FZ0YecQ=
+		rW6O9kwVoc+O/kItDu1lYNaLieg=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		gEElVeZqp4ubzwIV5Vtynb1RxRc=
+		cpBZJ/fwgnLxICIiq1cPpmCH1AQ=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5EsfFNWWLQz24wm066v5FZ0YecQ=
+		rW6O9kwVoc+O/kItDu1lYNaLieg=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bH4fifsNXW6EtZj8pJZuobVaRtg=
+		K2ngr5Ml+LdioRO/tj9RtYN6rmM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -101,35 +101,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7CRNHIJ/KDPibnNNXIEvR7cpBsr8L8+rMc+GNvwB5M0=
+			TjYxIii0kQmESWBSuTfxT031ndlvwJkNScdARn8fBRg=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vkW6aZIkAXoDAUauwhFFTGcmh/V6GbiG3n369TeZP1w=
+			QU7uMX6ror5fNWsmxzgM9OZOb8P+nT2bqmrocycikXw=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DTcQp3xGQaWSJ4/3OX7a/5aHJy9ksjYfVB8L/4FjKQg=
+			cL2JNM6TfE+gi3wPu7Oduwx5irbcQOwJ4dQMdlG4k90=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vkW6aZIkAXoDAUauwhFFTGcmh/V6GbiG3n369TeZP1w=
+			QU7uMX6ror5fNWsmxzgM9OZOb8P+nT2bqmrocycikXw=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PC21qBamTC4s7umvjxFzLPJ9nxHks1Y4QpJXO193FwE=
+			8gRRJBoS9iU2UFp3rDL2hn2tyz90chQJ9FKPn2G2JZc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
