@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		GCAQRX7ZPC6Y3I07bryQKXUDi84=
+		STqtN4vr21GjpiTwDvVy9v3ND0Q=
 		</data>
 		<key>Headers/OpenCVWrapper.h</key>
 		<data>
@@ -26,23 +26,23 @@
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		KJ2FpnoraWnNe6bJCdQwhKK049E=
+		LjZPeJFgWoRe5e129Kxj7eR6/kg=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		rW6O9kwVoc+O/kItDu1lYNaLieg=
+		vxtZHaD2jiKWpFG50QOVqsT4jME=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cpBZJ/fwgnLxICIiq1cPpmCH1AQ=
+		V8xHThp9plfI3pXRnVvLQ+02eBA=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rW6O9kwVoc+O/kItDu1lYNaLieg=
+		vxtZHaD2jiKWpFG50QOVqsT4jME=
 		</data>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1LyD7o5k7dQJSC+CX830bgr+26k=
+		uLQzcXux5jr1yUqDAwAsxB1YQTo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,7 +73,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wR4ANKH24GIWt8fHdDTkhsG9eYk28GAHMU3fKMRp9eI=
+			/l4ge/m47feE03aXbuoPHRYvkw7SzkHC4GANnYjxYzE=
 			</data>
 		</dict>
 		<key>Headers/OpenCVWrapper.h</key>
@@ -101,35 +101,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+xbRoKKrTdBfrO1uoREIcE5mKXwScXgoKgfB9eTGLuQ=
+			o1+ejvmLjOotcUeE4VSNukvQO+pVsACP64CY5U1b0no=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QU7uMX6ror5fNWsmxzgM9OZOb8P+nT2bqmrocycikXw=
+			KvxZP67lFkyiR+4VUW+256mrIaKi+DQ9EPL/ciQ6IKU=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cL2JNM6TfE+gi3wPu7Oduwx5irbcQOwJ4dQMdlG4k90=
+			z2RTSI9ZiymWQhPWTKCGoZoUKX7Tz25ScklUgsx4TT0=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QU7uMX6ror5fNWsmxzgM9OZOb8P+nT2bqmrocycikXw=
+			KvxZP67lFkyiR+4VUW+256mrIaKi+DQ9EPL/ciQ6IKU=
 			</data>
 		</dict>
 		<key>Modules/SequreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VQfMWn4HS3EV/nH0+/w2RiApI2Hwbw1SDPO0kfRIykY=
+			P8Won3yruW3Xyc7YSf0aJyivys8s6BnOFvluMNr+c6Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

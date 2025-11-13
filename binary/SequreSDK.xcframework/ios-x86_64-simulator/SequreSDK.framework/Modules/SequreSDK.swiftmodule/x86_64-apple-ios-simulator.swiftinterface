@@ -150,6 +150,8 @@ public enum StatusDialogScan {
 public func getModelIdentifier() -> Swift.String
 public func getDeviceModelName() -> Swift.String
 public func isSpecialCase() -> Swift.Bool
+public func getFocalLength() -> CoreFoundation.CGFloat
+public func getSensorSize() -> (width: CoreFoundation.CGFloat, height: CoreFoundation.CGFloat)
 extension SequreSDK.ClassificationEnv : Swift.Equatable {}
 extension SequreSDK.ClassificationEnv : Swift.Hashable {}
 extension SequreSDK.DistanceResult : Swift.Equatable {}
