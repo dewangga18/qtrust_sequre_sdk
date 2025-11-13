@@ -4902,6 +4902,20 @@
       "value": "20.0"
     },
     {
+      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Utils\/Functions\/ExpectedDistanceCalculator.swift",
+      "kind": "FloatLiteral",
+      "offset": 1851,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Utils\/Functions\/ExpectedDistanceCalculator.swift",
+      "kind": "FloatLiteral",
+      "offset": 1886,
+      "length": 4,
+      "value": "30.0"
+    },
+    {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 988,
@@ -4991,6 +5005,13 @@
       "offset": 540,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Utils\/Functions\/QRDetectionHelper.swift",
+      "kind": "FloatLiteral",
+      "offset": 523,
+      "length": 3,
+      "value": "0.0"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Components\/GlareAlertComponent.swift",
