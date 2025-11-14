@@ -149,6 +149,7 @@ public func getDeviceModelName() -> Swift.String
 public func isSpecialCase() -> Swift.Bool
 public func getFocalLength() -> CoreFoundation.CGFloat
 public func getSensorSize() -> (width: CoreFoundation.CGFloat, height: CoreFoundation.CGFloat)
+public func getHyperParameter(isSquare: Swift.Bool, zoom: CoreFoundation.CGFloat) -> Swift.Float
 extension SequreSDKLite.ClassificationEnv : Swift.Equatable {}
 extension SequreSDKLite.ClassificationEnv : Swift.Hashable {}
 extension SequreSDKLite.DistanceResult : Swift.Equatable {}

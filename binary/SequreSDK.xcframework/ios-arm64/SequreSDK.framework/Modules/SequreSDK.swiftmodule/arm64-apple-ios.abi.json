@@ -4520,6 +4520,40 @@
         "funcSelfKind": "NonMutating"
       },
       {
+        "kind": "Function",
+        "name": "getHyperParameter",
+        "printedName": "getHyperParameter(isSquare:zoom:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Float",
+            "printedName": "Swift.Float",
+            "usr": "s:Sf"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "CGFloat",
+            "printedName": "CoreGraphics.CGFloat",
+            "usr": "s:14CoreFoundation7CGFloatV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9SequreSDK17getHyperParameter8isSquare4zoomSfSb_14CoreFoundation7CGFloatVtF",
+        "mangledName": "$s9SequreSDK17getHyperParameter8isSquare4zoomSfSb_12CoreGraphics7CGFloatVtF",
+        "moduleName": "SequreSDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
@@ -4876,14 +4910,7 @@
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Utils\/CameraStream\/ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6385,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Utils\/CameraStream\/ViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 10356,
+      "offset": 10293,
       "length": 5,
       "value": "false"
     },
@@ -5114,154 +5141,147 @@
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "FloatLiteral",
-      "offset": 869,
-      "length": 3,
-      "value": "2.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "FloatLiteral",
-      "offset": 892,
+      "offset": 894,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "FloatLiteral",
-      "offset": 923,
+      "offset": 925,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 1037,
+      "offset": 1039,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 1091,
+      "offset": 1093,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 1200,
+      "offset": 1202,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 1300,
+      "offset": 1302,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "IntegerLiteral",
-      "offset": 1462,
+      "offset": 1464,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "IntegerLiteral",
-      "offset": 1498,
+      "offset": 1500,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "IntegerLiteral",
-      "offset": 1534,
+      "offset": 1536,
       "length": 1,
-      "value": "6"
+      "value": "5"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "IntegerLiteral",
-      "offset": 1570,
+      "offset": 1572,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 2016,
+      "offset": 2018,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "FloatLiteral",
-      "offset": 3169,
+      "offset": 3171,
       "length": 4,
       "value": "50.0"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 3476,
+      "offset": 3478,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 3574,
+      "offset": 3576,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 3688,
+      "offset": 3690,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 3784,
+      "offset": 3786,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 3878,
+      "offset": 3880,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 5151,
+      "offset": 5153,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "StringLiteral",
-      "offset": 5222,
+      "offset": 5224,
       "length": 4,
       "value": "\"en\""
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 5295,
+      "offset": 5297,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/sdk-test\/SequreSDK\/Lib\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 5329,
+      "offset": 5331,
       "length": 5,
       "value": "false"
     },
