@@ -19,7 +19,6 @@ Pod::Spec.new do |s|
     ]
   }
 
-  # s.vendored_frameworks = "binary/SequreSDK.xcframework"
   s.static_framework = true
 
   s.pod_target_xcconfig = {
